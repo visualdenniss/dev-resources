@@ -1,3 +1,5 @@
+![](https://www.frontendmentor.io/static/images/logo-mobile.svg)
+
 This is a mini project to compile all the resources posted in the #resources channel on the Slack server of Frontendmentor.io 
 
 To contribute: 
