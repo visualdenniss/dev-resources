@@ -1,8 +1,6 @@
-![](https://www.frontendmentor.io/static/images/logo-mobile.svg)
+Compilation of useful resources for frontend web developers. 
 
-This is a mini project to compile all the resources posted in the #resources channel on the Slack server of Frontendmentor.io 
-
-To contribute: 
+If you want to contribute: 
 
 - Fork the project repository to create a copy of the codebase under your GitHub account.
 - Make the necessary changes, in this case updating the full-resources-list.md file.
