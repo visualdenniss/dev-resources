@@ -77,4 +77,4 @@
 ||https://shadows.brumm.af/|Shadow generator
 ||https://maskable.app/editor|Maskable PWA icons generator
 ||https://regexr.com/|RegExr is an online tool to learn, build, & test Regular Expressions (RegEx / RegExp).
-||https://beautifytools.com/javascript-validator.php||JavaScript validator
+||https://beautifytools.com/javascript-validator.php|JavaScript validator |
