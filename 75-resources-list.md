@@ -74,3 +74,7 @@
 ||https://www.youtube.com/watch?v=uWDBEUkTRGk|Svelte Guide For React Developers|
 ||https://faustjs.org/|The Headless WordPress Framework|
 ||https://uigradients.com/#TheBlueLagoon|Generate awesome gradients|
+||https://shadows.brumm.af/|Shadow generator
+||https://maskable.app/editor|Maskable PWA icons generator
+||https://regexr.com/|RegExr is an online tool to learn, build, & test Regular Expressions (RegEx / RegExp).
+||https://beautifytools.com/javascript-validator.php||JavaScript validator
