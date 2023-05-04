@@ -1,6 +1,7 @@
 |#| Link | Description |
 |------|-------------|-------------|
 ||https://react.dev/|The library for web and native user interfaces|
+||https://webdevscom.github.io/|Over 1000+ free resources|
 ||https://www.joshwcomeau.com/css/interactive-guide-to-flexbox/|An Interactive Guide to Flexbox|
 ||https://github.com/developer-job-simulation|Real-world code challenges that simulate the day to day work of a software developer.|
 ||https://css-tricks.com/snippets/css/a-guide-to-flexbox/|A Complete Guide to Flexbox|
@@ -43,22 +44,34 @@
 ||https://jessbudd.com/blog/screen-reader-usability-testing-observations/|5 takeaways from screen reader usability interviews|
 ||https://andy-bell.co.uk/my-favourite-3-lines-of-css/|My favourite 3 lines of CSS|
 ||https://www.youtube.com/watch?v=WXsD0ZgxjRw| API Tutorial|
-||||
-||||
-||||
-||||
-||||
-||||
-||||
-||||
-||||
-||||
-||||
-||||
-||||
-||||
-||||
-||||
-||||
-||||
-||||
+||https://javascript.info/|The Modern JavaScript Tutorial|
+||https://www.learnui.design/tools/typography-tutorial.html|Learn the logic of great typography - An Interactive Type Tutorial|
+||https://www.systemuicons.com/|System UIcons|
+||https://collectui.com/|A platform for your daily inspiration collected from daily ui & beyond. Based on Dribbble shots, hand picked.|
+||https://carbon.now.sh/|Create and share beautiful images of your source code|
+||https://undraw.co/|Flat style illustrations - free and open source|
+||https://mockuphone.com/|Free and simple screenshots device mockups generator|
+||https://dbdiagram.io/home| A free, simple tool to draw ER diagrams by just writing code|
+||https://www.npmjs.com/package/create-awesome-node-app|Create Awesome Node App|
+||https://bizzui.online/|Tailwind CSS Components Tailwind UI |
+||https://headlessui.com/|Completely unstyled, fully accessible UI components, designed to integrate beautifully with Tailwind CSS.|
+||https://web.stanford.edu/class/cs253/|CS253 - Web Security|
+||https://www.linkedin.com/pulse/changing-words-vanilla-js-simple-animation-visualdev-web-development/|Changing Words [Vanilla JS] Simple Animation 🔥|
+||https://www.linkedin.com/pulse/image-reveal-animation-made-easy-gsap-tutorial-web-development/|Image Reveal Animation Made Easy [GSAP Tutorial]🔥|
+||https://cssgrid-generator.netlify.app/| CSS Grid Generator |
+||https://csstriggers.com/|what CSS properties cause the browser to repaint?|
+||https://getcssscan.com/css-box-shadow-examples|Beautiful CSS box-shadow examples|
+||https://fontawesome.com/icons|Font Awesome is the Internet's icon library and toolkit|
+||https://joyofcode.xyz/learn-problem-solving|Learn Problem Solving|
+||https://www.youtube.com/watch?v=erEgovG9WBs| 100+ Web Development Things you Should Know  - Fireship YT|
+||https://restcountries.com/|Open source and free country API|
+||https://www.youtube.com/playlist?list=PLsNXh3n0-f8T6fAnlBckZm9Ov0cfh0HhR|Algorithms In Javascript - YT Playlist|
+||https://ashleemboyer.com/blog/should-i-use-a-button-or-a-link|Should I Use a Button or a Link?|
+||https://www.spicyweb.dev/the-great-gaslighting-of-the-js-age/|The Great Gaslighting of the JavaScript Era|
+||https://frontendmasters.com/courses/algorithms/|Algorithms Course|
+||https://scrollbar.app/|CSS Scrollbar Selectors|
+||https://daverupert.com/2022/08/modern-alternatives-to-bem/|Modern alternatives to BEM|
+||https://darshancodes.hashnode.dev/what-do-i-do-when-im-stuck-as-a-developer-and-some-online-communities-that-help-me-in-problem-solving|What do I do when I'm stuck as a developer?|
+||https://www.youtube.com/watch?v=uWDBEUkTRGk|Svelte Guide For React Developers|
+||https://faustjs.org/|The Headless WordPress Framework|
+||https://uigradients.com/#TheBlueLagoon|Generate awesome gradients|
