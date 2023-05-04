@@ -64,7 +64,6 @@
 ||https://fontawesome.com/icons|Font Awesome is the Internet's icon library and toolkit|
 ||https://joyofcode.xyz/learn-problem-solving|Learn Problem Solving|
 ||https://www.youtube.com/watch?v=erEgovG9WBs| 100+ Web Development Things you Should Know  - Fireship YT|
-||https://restcountries.com/|Open source and free country API|
 ||https://www.youtube.com/playlist?list=PLsNXh3n0-f8T6fAnlBckZm9Ov0cfh0HhR|Algorithms In Javascript - YT Playlist|
 ||https://ashleemboyer.com/blog/should-i-use-a-button-or-a-link|Should I Use a Button or a Link?|
 ||https://www.spicyweb.dev/the-great-gaslighting-of-the-js-age/|The Great Gaslighting of the JavaScript Era|
