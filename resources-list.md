@@ -78,3 +78,4 @@
 ||https://maskable.app/editor|Maskable PWA icons generator
 ||https://regexr.com/|RegExr is an online tool to learn, build, & test Regular Expressions (RegEx / RegExp).
 ||https://beautifytools.com/javascript-validator.php|JavaScript validator |
+||https://fedmentor.dev/posts/html-plan-product-preview/|How to plan your HTML (1): Product Preview Card|
