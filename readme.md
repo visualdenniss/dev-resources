@@ -1,4 +1,4 @@
-Compilation of useful resources for frontend web developers. Work in progress. 
+Compilation of useful resources for frontend web developers. Work in progress. Currently unsorted with no categorisation. But there might be! 
 
 If you want to contribute: 
 
