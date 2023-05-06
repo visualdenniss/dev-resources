@@ -80,5 +80,4 @@
 ||https://beautifytools.com/javascript-validator.php|JavaScript validator |
 ||https://fedmentor.dev/posts/html-plan-product-preview/|How to plan your HTML (1): Product Preview Card|
 ||https://www.scottohara.me/blog/2017/04/14/inclusively-hidden.html#hiding-content-visually|Various ways to hide content in web interfaces|
-||https://www.happyhues.co/|
-Contextual Color pallette picker. What colors to use in your designs or where to use them
+||https://www.happyhues.co/|See how the colors could be used in your design projects
