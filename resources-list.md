@@ -80,4 +80,8 @@
 ||https://beautifytools.com/javascript-validator.php|JavaScript validator |
 ||https://fedmentor.dev/posts/html-plan-product-preview/|How to plan your HTML (1): Product Preview Card|
 ||https://www.scottohara.me/blog/2017/04/14/inclusively-hidden.html#hiding-content-visually|Various ways to hide content in web interfaces|
-||https://www.happyhues.co/|See how the colors could be used in your design projects
+||https://www.happyhues.co/|See how the colors could be used in your design projects|
+||https://frontendpractice.com/| Recreate real world website|
+||https://stylestage.dev| Practice your css skills|
+||https://firsttimersonly.com| Get started with open source|
+||https://frontendmentor.io/| Free and Paid Challenges for practicing web development|                            
