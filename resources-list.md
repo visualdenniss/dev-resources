@@ -84,4 +84,5 @@
 ||https://frontendpractice.com/| Recreate real world website|
 ||https://stylestage.dev| Practice your css skills|
 ||https://firsttimersonly.com| Get started with open source|
-||https://frontendmentor.io/| Free and Paid Challenges for practicing web development|                            
+||https://frontendmentor.io/| Free and Paid Challenges for practicing web development|            
+||https://screely.com/ | Screely instantly upgrades your screenshots with backgrounds, window frames and subtle shadows |
