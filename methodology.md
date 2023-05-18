@@ -1,5 +1,4 @@
-# Methodologies 
-
+<!-- prettier-ignore -->
 |#| Link | Description |
 |------|-------------|-------------|
 ||https://feature-sliced.design/|Architectural methodology for frontend projects|
