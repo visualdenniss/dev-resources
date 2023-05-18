@@ -86,3 +86,4 @@
 ||https://firsttimersonly.com| Get started with open source|
 ||https://frontendmentor.io/| Free and Paid Challenges for practicing web development|            
 ||https://screely.com/ | Screely instantly upgrades your screenshots with backgrounds, window frames and subtle shadows |
+||https://squoosh.app/ | Make images smaller using best-in-class codecs, right in the browser. | 
