@@ -45,3 +45,5 @@
 ||https://frontendpractice.com/| Recreate real world website|
 ||https://firsttimersonly.com| Get started with open source|
 ||https://frontendmentor.io/| Free and Paid Challenges for practicing web development|
+||https://devresourc.es/|A collaborative list of resources for developers|
+||https://damngood.tools/tools/screenshots-for-dimensions|Quickly test your website for popular screen dimensions.|
