@@ -6,3 +6,4 @@
 ||https://www.gov.uk/service-manual/technology/using-progressive-enhancement|Building a resilient frontend using progressive enhancement|
 ||https://fedmentor.dev/posts/html-plan-product-preview/|How to plan your HTML (1): Product Preview Card|
 ||https://vanzasetia.netlify.app/resources/|Knowledge Videos Tools Screen Readers Games|
+||https://www.nngroup.com/articles/screen-reader-users-on-mobile/ | Challenges for Screen-Reader Users on Mobile |
