@@ -12,7 +12,6 @@
 ||https://www.htmldog.com/guides/html/|A step-by-step guide to HTML basics. If you’re completely new to web design, start here.|
 ||https://www.kaggle.com/learn|Gain the skills you need to do independent data science projects.|
 ||https://www.youtube.com/watch?v=WdUqF4lbP3w | Kevin Powell - The steps you need to take before you write any code |
-||https://www.nngroup.com/articles/screen-reader-users-on-mobile/ | Challenges for Screen-Reader Users on Mobile |
 ||https://www.joshwcomeau.com/blog/the-end-of-frontend-development/|The End of Front-End Development / AI & ChatGPT|
 ||https://roadmap.sh/frontend|Step by step guide to becoming a modern frontend developer in 2023|
 ||https://www.atlassian.com/continuous-delivery/continuous-integration/trunk-based-development|Trunk-based development|
