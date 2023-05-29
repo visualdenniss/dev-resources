@@ -16,7 +16,6 @@
 ||https://roadmap.sh/frontend|Step by step guide to becoming a modern frontend developer in 2023|
 ||https://www.atlassian.com/continuous-delivery/continuous-integration/trunk-based-development|Trunk-based development|
 ||https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow|Gitflow Workflow|
-||https://web.dev/learn-html-available/|This course was written by Estelle Weyl and takes you through an in-depth journey to really understand HTML.|
 ||https://fig.io/|The next-generation command line.|
 ||https://ishadeed.com/article/responsive-design/|The Guide To Responsive Design In 2023 and Beyond|
 ||https://bradfrost.com/blog/post/design-systems-in-the-time-of-ai/|design systems in the time of ai|
