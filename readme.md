@@ -5,8 +5,7 @@ Compilation of hand-picked, usefulresources for frontend web developers and desi
 
 <p align="center">
 !Work in progress. 
-Currently unsorted with no categorisation. 
-But there might be! 
+Please check "Issues" to see what is being worked on next. 
 </p>
 
 
