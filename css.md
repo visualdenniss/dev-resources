@@ -14,3 +14,8 @@
 ||https://headlessui.com/|Completely unstyled, fully accessible UI components, designed to integrate beautifully with Tailwind CSS.|
 ||https://tobiasahlin.com/blog/previous-sibling-css-has/|Selecting previous siblings with CSS :has()|
 ||https://andy-bell.co.uk/a-modern-css-reset/|A Modern CSS Reset|
+||https://ishadeed.com/article/responsive-design/|The Guide To Responsive Design In 2023 and Beyond|
+||https://undraw.co/|Flat style illustrations - free and open source|
+||https://benmyers.dev/blog/clickable-divs/|How (Not) to Build a Button|
+||https://set.studio/some-simple-ways-to-make-content-look-good/|Some simple ways to make content look good|
+||https://bizzui.online/|Tailwind CSS Components Tailwind UI |
