@@ -12,3 +12,10 @@
 ||https://www.happyhues.co/|See how the colors could be used in your design projects|
 ||https://regexr.com/|RegExr is an online tool to learn, build, & test Regular Expressions (RegEx / RegExp).
 ||https://dbdiagram.io/home| A free, simple tool to draw ER diagrams by just writing code|
+||https://react.dev/|The library for web and native user interfaces|
+||https://webdevscom.github.io/|Over 1000+ free resources|
+||https://validator.w3.org/| Markup Validation Service|
+||https://abdrzqsalihu.hashnode.dev/importance-of-collaboration-and-community-in-learning-programming-tips-for-finding-support-and-building-your-network|Importance of Collaboration and Community in Learning Programming|
+||https://damngood.tools/tools/screenshots-for-dimensions|Quickly test your website for popular screen dimensions.|
+||https://frontendmentor.io/| Free and Paid Challenges for practicing web development|
+||https://devresourc.es/|A collaborative list of resources for developers|
