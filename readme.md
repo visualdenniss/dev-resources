@@ -1,7 +1,9 @@
-
-<p align="center">
-Compilation of hand-picked, usefulresources for frontend web developers and designers 
-</p>
+<h1 align="center">
+🐣 Beginner Friendly Open-Source Project 😊
+</h1>
+<h3 align="center">
+  📚 Compilation of hand-picked, useful resources for frontend web developers and designers 
+</h3>
 
 <p align="center">
 !Work in progress. 
