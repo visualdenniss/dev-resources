@@ -44,5 +44,22 @@
 ||https://faustjs.org/|The Headless WordPress Framework|
 ||https://frontendpractice.com/| Recreate real world website|
 ||https://firsttimersonly.com| Get started with open source|
-
-
+||https://realtimecolors.com/| Visualize Your Colors On a Real Website|
+||https://neumorphism.io/#e0e0e0| Generate Soft-UI CSS code|
+||https://css.glass/| Glassmorphism CSS Generator|
+||https://cubic-bezier.com/| cubic-bezier animations helper|
+||https://cssgradient.io/| CSS Gradient|
+||https://cssbud.com/css-generator/| CSS Generators|
+||https://9elements.github.io/fancy-border-radius/| FANCY-BORDER-RADIUS|
+||https://tinypng.com/| Smart WebP, PNG and JPEG compression|
+||https://bennettfeely.com/clippy/| CSS clip-path maker|
+||http://www.cssfiltergenerator.com/| css filter generator|
+||https://fontawesome.com/| Font Awesome is the Internet's icon library and toolkit|
+||https://ionic.io/ionicons| Open source icons|
+||https://app.haikei.app/| svg generator|
+||https://www.blobmaker.app/| svg blob generator|
+||https://getwaves.io/| svg waves generator|
+||https://animista.net/| ANIMISTA IS A PLACE WHERE YOU CAN PLAY WITH A COLLECTION OF PRE-MADE CSS ANIMATIONS|
+||https://caniuse.com/| Browser support tables for modern web technologies|
+||https://caninclude.glitch.me/| Can I include a tag to a tag?|
+||https://www.webdesign-inspiration.com/| Webdesign-inspiration.com is a free inspiration gallery for UX designers|
