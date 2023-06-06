@@ -19,3 +19,4 @@
 ||https://damngood.tools/tools/screenshots-for-dimensions|Quickly test your website for popular screen dimensions.|
 ||https://frontendmentor.io/| Free and Paid Challenges for practicing web development|
 ||https://devresourc.es/|A collaborative list of resources for developers|
+||https://bennettfeely.com/clippy/|CSS clip-path Maker|
