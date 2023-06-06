@@ -1,6 +1,7 @@
 <!-- prettier-ignore -->
 |#| Link | Description |
 |------|-------------|-------------|
+||https://react.dev/|The library for web and native user interfaces|
 ||https://javascript.info/|The Modern JavaScript Tutorial|
 ||https://zerotomastery.io/resources/|Cheat Sheets (JS / Node / Big 0 / Python and more|
 ||https://learnvanillajs.com/|A free JavaScript course for beginners.|
@@ -10,3 +11,5 @@
 ||https://adamakinwole.hashnode.dev/the-ultimate-guide-to-higher-order-array-functions-in-javascript| The Ultimate Guide to Higher-Order Array Functions in JavaScript
 ||https://www.c0d3.com/curriculum|JS Course|
 ||https://www.freecodecamp.org/news/synchronous-vs-asynchronous-in-javascript/|Synchronous vs Asynchronous JavaScript – Call Stack, Promises, and More|
+||https://frontendmasters.com/courses/algorithms/|Algorithms Course|
+||https://www.spicyweb.dev/the-great-gaslighting-of-the-js-age/|The Great Gaslighting of the JavaScript Era|

@@ -14,9 +14,20 @@
 ||https://dbdiagram.io/home| A free, simple tool to draw ER diagrams by just writing code|
 ||https://react.dev/|The library for web and native user interfaces|
 ||https://webdevscom.github.io/|Over 1000+ free resources|
-||https://validator.w3.org/| Markup Validation Service|
 ||https://abdrzqsalihu.hashnode.dev/importance-of-collaboration-and-community-in-learning-programming-tips-for-finding-support-and-building-your-network|Importance of Collaboration and Community in Learning Programming|
-||https://damngood.tools/tools/screenshots-for-dimensions|Quickly test your website for popular screen dimensions.|
 ||https://frontendmentor.io/| Free and Paid Challenges for practicing web development|
 ||https://devresourc.es/|A collaborative list of resources for developers|
 ||https://bennettfeely.com/clippy/|CSS clip-path Maker|
+||https://undraw.co/|Flat style illustrations - free and open source|
+||https://neumorphism.io/#e0e0e0| Generate Soft-UI CSS code|
+||https://css.glass/| Glassmorphism CSS Generator|
+||https://app.haikei.app/| svg generator|
+||https://www.blobmaker.app/| svg blob generator|
+||https://getwaves.io/| svg waves generator|
+||https://caniuse.com/| Browser support tables for modern web technologies|
+||https://cssgradient.io/| CSS Gradient|
+||https://tinypng.com/| Smart WebP, PNG and JPEG compression|
+||http://www.cssfiltergenerator.com/| css filter generator|
+||https://cssbud.com/css-generator/| CSS Generators|
+||https://9elements.github.io/fancy-border-radius/| FANCY-BORDER-RADIUS|
+||https://realtimecolors.com/| Visualize Your Colors On a Real Website|
