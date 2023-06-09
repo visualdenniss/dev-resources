@@ -1,0 +1,72 @@
+[
+  {
+    "id": "id_0",
+    "link": "http://alistapart.com/article/dao/",
+    "description": "A Dao of Web Design"
+  },
+  {
+    "id": "id_1",
+    "link": "https://collectui.com/",
+    "description": "A platform for your daily inspiration collected from daily ui & beyond. Based on Dribbble shots, hand picked."
+  },
+  {
+    "id": "id_2",
+    "link": "https://www.springboard.com/blog/design-learning-hub/",
+    "description": "Free UI/UX Resources"
+  },
+  {
+    "id": "id_3",
+    "link": "https://www.lapa.ninja/",
+    "description": "Lapa Ninja is a gallery featuring the best 5554 landing page examples, free books for designers and free UI kits from around the web."
+  },
+  {
+    "id": "id_4",
+    "link": "https://thedesignsystem.guide/",
+    "description": "This guide covers all the essential topics for setting up the design system."
+  },
+  {
+    "id": "id_5",
+    "link": "https://colors.combinations.obys.agency/",
+    "description": "Color Combinations"
+  },
+  {
+    "id": "id_6",
+    "link": "https://www.learnui.design/tools/typography-tutorial.html",
+    "description": "Learn the logic of great typography - An Interactive Type Tutorial"
+  },
+  {
+    "id": "id_7",
+    "link": "https://www.webdesign-inspiration.com/",
+    "description": "Webdesign-inspiration.com is a free inspiration gallery for UX designers"
+  },
+  {
+    "id": "id_8",
+    "link": "https://fontawesome.com/",
+    "description": "Font Awesome is the Internet's icon library and toolkit"
+  },
+  {
+    "id": "id_9",
+    "link": "https://ionic.io/ionicons",
+    "description": "Open source icons"
+  },
+  {
+    "id": "id_10",
+    "link": "https://www.systemuicons.com/",
+    "description": "System UIcons"
+  },
+  {
+    "id": "id_11",
+    "link": "https://bradfrost.com/blog/post/design-systems-in-the-time-of-ai/",
+    "description": "design systems in the time of ai"
+  },
+  {
+    "id": "id_12",
+    "link": "https://ishadeed.com/article/responsive-design/",
+    "description": "The Guide To Responsive Design In 2023 and Beyond"
+  },
+  {
+    "id": "id_13",
+    "link": "https://set.studio/some-simple-ways-to-make-content-look-good/",
+    "description": "Some simple ways to make content look good"
+  }
+]

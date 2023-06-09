@@ -1,0 +1,92 @@
+[
+  {
+    "id": "id_0",
+    "link": "https://frontendmentor.io/",
+    "description": "Free and Paid Challenges for practicing web development"
+  },
+  {
+    "id": "id_1",
+    "link": "https://devresourc.es/",
+    "description": "A collaborative list of resources for developers"
+  },
+  {
+    "id": "id_2",
+    "link": "https://github.com/developer-job-simulation",
+    "description": "Real-world code challenges that simulate the day to day work of a software developer."
+  },
+  {
+    "id": "id_3",
+    "link": "https://internetingishard.netlify.app/index.html",
+    "description": "Friendly web development tutorials for complete beginners"
+  },
+  {
+    "id": "id_4",
+    "link": "https://www.joshwcomeau.com/blog/the-end-of-frontend-development/",
+    "description": "The End of Front-End Development / AI & ChatGPT"
+  },
+  {
+    "id": "id_5",
+    "link": "https://roadmap.sh/frontend",
+    "description": "Step by step guide to becoming a modern frontend developer in 2023"
+  },
+  {
+    "id": "id_6",
+    "link": "https://www.atlassian.com/continuous-delivery/continuous-integration/trunk-based-development",
+    "description": "Trunk-based development"
+  },
+  {
+    "id": "id_7",
+    "link": "https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow",
+    "description": "Gitflow Workflow"
+  },
+  {
+    "id": "id_8",
+    "link": "https://fig.io/",
+    "description": "The next-generation command line."
+  },
+  {
+    "id": "id_9",
+    "link": "https://www.prifina.com/blog/20230306",
+    "description": "Power Your Personal AI"
+  },
+  {
+    "id": "id_10",
+    "link": "https://www.npmjs.com/package/create-awesome-node-app",
+    "description": "Create Awesome Node App"
+  },
+  {
+    "id": "id_11",
+    "link": "https://web.stanford.edu/class/cs253/",
+    "description": "CS253 - Web Security"
+  },
+  {
+    "id": "id_12",
+    "link": "https://joyofcode.xyz/learn-problem-solving",
+    "description": "Learn Problem Solving"
+  },
+  {
+    "id": "id_13",
+    "link": "https://darshancodes.hashnode.dev/what-do-i-do-when-im-stuck-as-a-developer-and-some-online-communities-that-help-me-in-problem-solving",
+    "description": "What do I do when I'm stuck as a developer?"
+  },
+  {
+    "id": "id_14",
+    "link": "https://faustjs.org/",
+    "description": "The Headless WordPress Framework"
+  },
+  {
+    "id": "id_15",
+    "link": "https://frontendpractice.com/",
+    "description": "Recreate real world website"
+  },
+  {
+    "id": "id_16",
+    "link": "https://firsttimersonly.com",
+    "description": "Get started with open source"
+  },
+  {
+    "id": "id_17",
+    "link": "https://www.kaggle.com/learn",
+    "description": "Gain the skills you need to do independent data science projects."
+  }
+]

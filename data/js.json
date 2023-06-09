@@ -1,0 +1,61 @@
+[
+  {
+    "id": "id_0",
+    "link": "https://react.dev/",
+    "description": "The library for web and native user interfaces"
+  },
+  {
+    "id": "id_1",
+    "link": "https://javascript.info/",
+    "description": "The Modern JavaScript Tutorial"
+  },
+  {
+    "id": "id_2",
+    "link": "https://zerotomastery.io/resources/",
+    "description": "Cheat Sheets (JS / Node / Big 0 / Python and more"
+  },
+  {
+    "id": "id_3",
+    "link": "https://learnvanillajs.com/",
+    "description": "A free JavaScript course for beginners."
+  },
+  {
+    "id": "id_4",
+    "link": "https://www.joshwcomeau.com/javascript/the-const-deception/",
+    "description": "The “const” Deception"
+  },
+  {
+    "id": "id_5",
+    "link": "https://beautifytools.com/javascript-validator.php",
+    "description": "JavaScript validator"
+  },
+  {
+    "id": "id_6",
+    "link": "https://www.youtube.com/playlist?list=PLsNXh3n0-f8T6fAnlBckZm9Ov0cfh0HhR",
+    "description": "Algorithms In Javascript - YT Playlist"
+  },
+  {
+    "id": "id_7",
+    "link": "https://adamakinwole.hashnode.dev/the-ultimate-guide-to-higher-order-array-functions-in-javascript"
+  },
+  {
+    "id": "id_8",
+    "link": "https://www.c0d3.com/curriculum",
+    "description": "JS Course"
+  },
+  {
+    "id": "id_9",
+    "link": "https://www.freecodecamp.org/news/synchronous-vs-asynchronous-in-javascript/",
+    "description": "Synchronous vs Asynchronous JavaScript – Call Stack, Promises, and More"
+  },
+  {
+    "id": "id_10",
+    "link": "https://frontendmasters.com/courses/algorithms/",
+    "description": "Algorithms Course"
+  },
+  {
+    "id": "id_11",
+    "link": "https://www.spicyweb.dev/the-great-gaslighting-of-the-js-age/",
+    "description": "The Great Gaslighting of the JavaScript Era"
+  }
+]

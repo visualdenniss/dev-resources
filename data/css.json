@@ -1,0 +1,92 @@
+[
+  {
+    "id": "id_0",
+    "link": "https://www.joshwcomeau.com/css/interactive-guide-to-flexbox/",
+    "description": "An Interactive Guide to Flexbox"
+  },
+  {
+    "id": "id_1",
+    "link": "https://css-tricks.com/snippets/css/a-guide-to-flexbox/",
+    "description": "A Complete Guide to Flexbox"
+  },
+  {
+    "id": "id_2",
+    "link": "https://darekkay.com/flexbox-cheatsheet/",
+    "description": "Flexbox Cheatsheet"
+  },
+  {
+    "id": "id_3",
+    "link": "https://cssgrid-generator.netlify.app/",
+    "description": "CSS Grid Generator"
+  },
+  {
+    "id": "id_4",
+    "link": "https://scrollbar.app/",
+    "description": "CSS Scrollbar Selectors"
+  },
+  {
+    "id": "id_5",
+    "link": "https://daverupert.com/2022/08/modern-alternatives-to-bem/",
+    "description": "Modern alternatives to BEM"
+  },
+  {
+    "id": "id_6",
+    "link": "https://stylestage.dev",
+    "description": "Practice your css skills"
+  },
+  {
+    "id": "id_7",
+    "link": "https://csstriggers.com/",
+    "description": "what CSS properties cause the browser to repaint?"
+  },
+  {
+    "id": "id_8",
+    "link": "https://joshcollinsworth.com/blog/never-use-px-for-font-size",
+    "description": "Why you should never use px to set font-size in CSS"
+  },
+  {
+    "id": "id_9",
+    "link": "https://andy-bell.co.uk/my-favourite-3-lines-of-css/",
+    "description": "My favourite 3 lines of CSS"
+  },
+  {
+    "id": "id_10",
+    "link": "https://headlessui.com/",
+    "description": "Completely unstyled, fully accessible UI components, designed to integrate beautifully with Tailwind CSS."
+  },
+  {
+    "id": "id_11",
+    "link": "https://tobiasahlin.com/blog/previous-sibling-css-has/",
+    "description": "Selecting previous siblings with CSS :has()"
+  },
+  {
+    "id": "id_12",
+    "link": "https://andy-bell.co.uk/a-modern-css-reset/",
+    "description": "A Modern CSS Reset"
+  },
+  {
+    "id": "id_13",
+    "link": "https://ishadeed.com/article/responsive-design/",
+    "description": "The Guide To Responsive Design In 2023 and Beyond"
+  },
+  {
+    "id": "id_14",
+    "link": "https://undraw.co/",
+    "description": "Flat style illustrations - free and open source"
+  },
+  {
+    "id": "id_15",
+    "link": "https://benmyers.dev/blog/clickable-divs/",
+    "description": "How (Not) to Build a Button"
+  },
+  {
+    "id": "id_16",
+    "link": "https://set.studio/some-simple-ways-to-make-content-look-good/",
+    "description": "Some simple ways to make content look good"
+  },
+  {
+    "id": "id_17",
+    "link": "https://bizzui.online/",
+    "description": "Tailwind CSS Components Tailwind UI"
+  }
+]

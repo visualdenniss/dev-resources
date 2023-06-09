@@ -1,0 +1,22 @@
+[
+  {
+    "id": "id_0",
+    "link": "https://www.youtube.com/watch?v=WXsD0ZgxjRw",
+    "description": "API Tutorial"
+  },
+  {
+    "id": "id_1",
+    "link": "https://www.youtube.com/watch?v=WdUqF4lbP3w",
+    "description": "Kevin Powell - The steps you need to take before you write any code"
+  },
+  {
+    "id": "id_2",
+    "link": "https://www.youtube.com/watch?v=uWDBEUkTRGk",
+    "description": "Svelte Guide For React Developers"
+  },
+  {
+    "id": "id_3",
+    "link": "https://www.youtube.com/watch?v=erEgovG9WBs",
+    "description": "100+ Web Development Things you Should Know  - Fireship YT"
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "id": "id_0",
+    "link": "https://caninclude.glitch.me/",
+    "description": "Can I include a tag to a tag?"
+  },
+  {
+    "id": "id_1",
+    "link": "https://htmlreference.io/",
+    "description": "htmlreference.io is a free guide to HTML. It features all elements and attributes."
+  },
+  {
+    "id": "id_2",
+    "link": "https://www.htmldog.com/guides/html/",
+    "description": "A step-by-step guide to HTML basics. If you’re completely new to web design, start here."
+  },
+  {
+    "id": "id_3",
+    "link": "https://ashleemboyer.com/blog/should-i-use-a-button-or-a-link",
+    "description": "Should I Use a Button or a Link?"
+  },
+  {
+    "id": "id_4",
+    "link": "https://web.dev/learn-html-available/",
+    "description": "This course was written by Estelle Weyl and takes you through an in-depth journey to really understand HTML."
+  },
+  {
+    "id": "id_5",
+    "link": "https://validator.w3.org/",
+    "description": "Markup Validation Service"
+  },
+  {
+    "id": "id_6",
+    "link": "https://benmyers.dev/blog/clickable-divs/",
+    "description": "How (Not) to Build a Button"
+  }
+]
