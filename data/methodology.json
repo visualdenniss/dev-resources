@@ -1,0 +1,52 @@
+[
+  {
+    "id": "id_0",
+    "link": "https://feature-sliced.design/",
+    "description": "Architectural methodology for frontend projects"
+  },
+  {
+    "id": "id_1",
+    "link": "https://legacy.reactjs.org/docs/faq-structure.html",
+    "description": "File Structure examples by React"
+  },
+  {
+    "id": "id_2",
+    "link": "https://bradfrost.com/blog/post/atomic-web-design/",
+    "description": "Atomic Design"
+  },
+  {
+    "id": "id_3",
+    "link": "https://blog.webdevsimplified.com/2022-07/react-folder-structure/",
+    "description": "How To Structure React Projects From Beginner To Advanced"
+  },
+  {
+    "id": "id_4",
+    "link": "https://www.joshwcomeau.com/react/file-structure/",
+    "description": "Delightful React File/Directory Structure"
+  },
+  {
+    "id": "id_5",
+    "link": "https://kyleshevlin.com/how-i-structure-my-react-projects",
+    "description": "https://kyleshevlin.com/how-i-structure-my-react-projects"
+  },
+  {
+    "id": "id_6",
+    "link": "|"
+  },
+  {
+    "id": "id_7",
+    "link": "|"
+  },
+  {
+    "id": "id_8",
+    "link": "|"
+  },
+  {
+    "id": "id_9",
+    "link": "|"
+  },
+  {
+    "id": "id_10",
+    "link": "|"
+  }
+]

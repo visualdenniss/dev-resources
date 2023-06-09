@@ -1,0 +1,42 @@
+[
+  {
+    "id": "id_0",
+    "link": "https://www.silvestar.codes/articles/five-pieces-of-advice-for-more-accessible-websites/",
+    "description": "Five pieces of advice for more accessible websites"
+  },
+  {
+    "id": "id_1",
+    "link": "https://www.magentaa11y.com/web/",
+    "description": "Web accessibility checklist"
+  },
+  {
+    "id": "id_2",
+    "link": "https://www.gov.uk/service-manual/technology/using-progressive-enhancement",
+    "description": "Building a resilient frontend using progressive enhancement"
+  },
+  {
+    "id": "id_3",
+    "link": "https://fedmentor.dev/posts/html-plan-product-preview/",
+    "description": "How to plan your HTML (1): Product Preview Card"
+  },
+  {
+    "id": "id_4",
+    "link": "https://vanzasetia.netlify.app/resources/",
+    "description": "Knowledge Videos Tools Screen Readers Games"
+  },
+  {
+    "id": "id_5",
+    "link": "https://www.nngroup.com/articles/screen-reader-users-on-mobile/",
+    "description": "Challenges for Screen-Reader Users on Mobile"
+  },
+  {
+    "id": "id_6",
+    "link": "https://jessbudd.com/blog/screen-reader-usability-testing-observations/",
+    "description": "5 takeaways from screen reader usability interviews"
+  },
+  {
+    "id": "id_7",
+    "link": "https://uxdesign.cc/context-is-the-most-critical-aspect-of-alt-text-everyone-seems-to-miss-e18803a79212",
+    "description": "Context is the most critical aspect of alt-text everyone seems to miss"
+  }
+]

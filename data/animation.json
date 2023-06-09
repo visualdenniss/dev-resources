@@ -1,0 +1,22 @@
+[
+  {
+    "id": "id_0",
+    "link": "https://www.linkedin.com/pulse/changing-words-vanilla-js-simple-animation-visualdev-web-development/",
+    "description": "Changing Words [Vanilla JS] Simple Animation 🔥"
+  },
+  {
+    "id": "id_1",
+    "link": "https://www.linkedin.com/pulse/image-reveal-animation-made-easy-gsap-tutorial-web-development/",
+    "description": "Image Reveal Animation Made Easy [GSAP Tutorial]🔥"
+  },
+  {
+    "id": "id_2",
+    "link": "https://animista.net/",
+    "description": "ANIMISTA IS A PLACE WHERE YOU CAN PLAY WITH A COLLECTION OF PRE-MADE CSS ANIMATIONS"
+  },
+  {
+    "id": "id_3",
+    "link": "https://cubic-bezier.com/",
+    "description": "cubic-bezier animations helper"
+  }
+]
