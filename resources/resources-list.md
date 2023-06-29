@@ -19,3 +19,6 @@
 ||https://frontendpractice.com/| Recreate real world website|
 ||https://firsttimersonly.com| Get started with open source|
 ||https://www.kaggle.com/learn|Gain the skills you need to do independent data science projects.|
+||https://www.fontpair.co/|Free fonts and font pairings to use for your next design project.|
+||https://realtimecolors.com|Visualize color palettes and fonts on a real website.|
+||https://haikei.app|Generate unique SVG design assets.|
